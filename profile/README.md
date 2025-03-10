@@ -1,9 +1,9 @@
 ## Hi there 👋
-<!-- 顶部标题 + 动态打字效果 -->
+<!-- 区块链猎人主题Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+YourName;Full+Stack+Developer%20|%20Open+Source+Enthusiast" alt="动态打字效果" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=30&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=80&lines=WE+ARE+BLOCKCHAIN+HUNTERS;WE+SEEK+THE+NEXT+PREY" alt="动态标语" />
+  <img src="https://user-images.githubusercontent.com/18350557/173176998-ec9d5a6f-8694-4b9f-817c-6b1f0d4e5c9d.gif" width="100%"/> 
 </div>
-
 
 <!--
 
