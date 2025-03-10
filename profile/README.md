@@ -1,4 +1,9 @@
 ## Hi there 👋
+<!-- 顶部标题 + 动态打字效果 -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+YourName;Full+Stack+Developer%20|%20Open+Source+Enthusiast" alt="动态打字效果" />
+</div>
+
 
 <!--
 
